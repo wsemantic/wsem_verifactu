@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="subscription_package_view_form" model="ir.ui.view">
+        <field name="name">subscription_package.view.form</field>
+        <field name="model">subscription.package</field>
+        <field name="inherit_id"/>
+        <field name="arch" type="xml">
+        <xpath expr="//field[@name='']" position="inside">
+            
+        </xpath>
+        </field>
+    </record>
+
+</odoo>
